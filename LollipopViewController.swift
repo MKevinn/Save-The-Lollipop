@@ -2,8 +2,8 @@
 //  LollipopViewController.swift
 //  Save The Lollipop
 //
-//  Created by Jintian Wang on 2020/7/7.
-//  Copyright © 2020 Jintian Wang. All rights reserved.
+//  Created by Jintian Wang on 2019/11/9.
+//  Copyright © 2019 Jintian Wang. All rights reserved.
 //
 
 import UIKit
